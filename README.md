@@ -11,7 +11,7 @@ Building a machine learning pipeline on Databricks using Spark for a bank market
 
 - Description --> bank-full.csv contains 17 attributes 45,211 records. Attributes contain 7 numerical features, 9 categorical features, and 1 dependent (target) feature. [attribute details](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
-- DataLake --> Amazon S3 Bucket [link](https://s3.console.aws.amazon.com/s3/buckets/bankmarket1611?region=us-east-1&tab=objects)
+- DataLake --> Amazon S3 Bucket. [link](https://s3.console.aws.amazon.com/s3/buckets/bankmarket1611?region=us-east-1&tab=objects)
 ## Tools
 - Databricks Comunity Edition
 - Spark SQL, Spark MLlib
