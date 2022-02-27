@@ -43,4 +43,6 @@ Building a machine learning pipeline on Databricks using Spark for a bank market
 - BinaryClassificationEvaluator
 - Achieved AUC of 0.91 & Accuracy of 0.90
 ## Appendix
-[Notebook]()
+- [pythonNotebook](https://github.com/shitab16/bank-marketing-databricks/blob/master/bankmarketing.ipynb)
+- [htmlNotebook](https://github.com/shitab16/bank-marketing-databricks/blob/master/bankmarketing.html)
+- [databricksNotebook](https://community.cloud.databricks.com/?o=4480127604462960#notebook/3968936994854429/command/3968936994854430)
